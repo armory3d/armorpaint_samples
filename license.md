@@ -1,12 +1,15 @@
 
-Bomberman created by:
+Gun model licensed under Creative Commons Attribution 3.0 created by:
+	Ricardo28roi
+
+Bomberman model licensed under CC0 created by:
 	Rui Teixeira
 
-Inspired by the livestream of:
-	Sebastian Cavazzoli (https://bit.ly/2JRyNPe)
+	Inspired by the livestream of:
+		Sebastian Cavazzoli (https://bit.ly/2JRyNPe)
 
-Original concept by:
-	Lucas Lazora (https://bit.ly/2JsFKqv)
+	Original concept by:
+		Lucas Lazora (https://bit.ly/2JsFKqv)
 
 HDRI map courtesy of:
 	hdrihaven.com
