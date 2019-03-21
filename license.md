@@ -1,7 +1,4 @@
 
-Gun model licensed under Creative Commons Attribution 3.0 created by:
-	Ricardo28roi
-
 Bomberman model licensed under CC0 created by:
 	Rui Teixeira
 
@@ -11,8 +8,8 @@ Bomberman model licensed under CC0 created by:
 	Original concept by:
 		Lucas Lazora (https://bit.ly/2JsFKqv)
 
-HDRI map courtesy of:
+CC0 HDRI map spruit_sunrise courtesy of:
 	hdrihaven.com
 
-Texture courtesy of:
+CC0 texture Wood06 courtesy of:
 	cc0textures.com
